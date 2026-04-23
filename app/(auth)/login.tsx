@@ -28,7 +28,7 @@ export default function LoginScreen() {
              <View style={styles.avatarCircle}>
                 <Ionicons name="person" size={32} color={XendColors.textSecondary} />
              </View>
-             <Text style={styles.welcomeUser}>Welcome, Michael_Chuks</Text>
+             <Text style={styles.welcomeUser}>Welcome, Chisom_Rachael</Text>
           </View>
 
           <Text style={styles.title}>Enter your password</Text>
